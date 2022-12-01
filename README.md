@@ -189,6 +189,9 @@ It can lead to the apparent paradox where larger values have shorter arcs.
 The better (and simplier!) alternative is just unwrap the donuts and make a good old stacked bar plot. 
 BTW, this is also my main issue with [circos plots](http://circos.ca/) and other circular plot layouts.
 
+# GGplot2
+
+
 # Conclusion (?)
 
 That's it for now. I will update this when I have the time (and inspirations) to produce more examples. 
