@@ -1,4 +1,6 @@
 # Friends Don't Let Friends Make Bad Graphs 
+Esta es una modificación del recurso [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends).
+Este será un recurso acumulativo para los laboratorios de Biología Computacional y Sistemas Complejos
 
 Release v1.0.0. 
 [![DOI](https://zenodo.org/badge/495942174.svg)](https://zenodo.org/badge/latestdoi/495942174)
